@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Currently working at @Shopify
+- I am on my personal site but you can start here https://j.muran.ga
+- In my freetime I am taking photos and listening to audiobooks
+
 <!--
 **JamesMura/jamesmura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
