@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- From Uganda🇺🇬, spend most of my time in Emeryville,CA
+- From Uganda 🇺🇬 live in Emeryville, CA
 - Currently working at Shopify
-- In my freetime I love taking photos📷 and listening to audiobooks📚
+- In my freetime I love taking photos 📷 and listening to audiobooks 📚
 
 <!--
 **JamesMura/jamesmura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
