@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - From Uganda 🇺🇬 
-- Currently working at Shopify
+- Currently working at Asana
 - In my freetime I love taking photos 📷 and listening to audiobooks 📚
 
 <!--
